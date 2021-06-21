@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A self taught developer from São Paulo, Brazil</h3>
 
-- 🌱 I’m currently studying Mining engineer at USP- Politecnica
+- 🌱 I’m currently studying Mining engineering at USP- Politecnica
 
 - 💬 Ask me about **Python, Java and Flutter**
 
