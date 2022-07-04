@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying Eletrical engineering at USP- Escola Politecnica
 
-- 💬 Ask me about **Python, Java and Flutter**
+- 💬 Ask me about **Python, TypeScript, JavaScript, Java and Flutter**
 
 - 📫 How to reach me **gsalomaoc@gmail.com**
 
